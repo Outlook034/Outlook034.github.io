@@ -46,9 +46,27 @@ Feel free to reach out if you are interested in my research or want to collabora
 
 # Publications
 
-[1] J. Qin, **K. Liu**, Y. Cai, T. Ji and F. Liu, "MTLP-MDG: Multi-Task Learning Framework using Probabilistic Distribution Perception for Missing Data Generation," 2025 International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025, pp. 1-8, doi: 10.1109/IJCNN64981.2025.11229220.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-[2] Y. Liu, F. Li, **K. Liu** and J. Ma, "Endo-G2T: Geometry-Guided and Temporally Aware Training for 4D Gaussian Splatting in Endoscopy," IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026. (Accepted)
+[MTLP-MDG: Multi-Task Learning Framework using Probabilistic Distribution Perception for Missing Data Generation](https://ieeexplore.ieee.org/document/11229220)
+
+Jiahao Qin, **Kan Liu**, Yizhuo Cai, Tianyi Ji, and Fangyu Liu
+
+*IEEE International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Endo-G²T: Geometry-Guided and Temporally Aware Training for 4D Gaussian Splatting in Endoscopy](https://ieeexplore.ieee.org/)
+
+Yizhuo Liu, Fei Li, **Kan Liu**, and Jiayuan Ma
+
+*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026* — Accepted
+</div>
+</div>
 
 
 # Research Experience

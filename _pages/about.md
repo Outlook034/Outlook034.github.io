@@ -22,12 +22,13 @@ I am a junior undergraduate student at **Xi'an Jiaotong-Liverpool University (XJ
 Feel free to reach out if you are interested in my research or want to collaborate!
 
 
-# :fire: News
-- *2025.09*: &nbsp;:tada: Started my junior year at XJTLU.
-- *2025.01*: &nbsp;:tada: Began exploring research in Computer Vision and Deep Learning.
+# News
+
+- *2025.09*: Started my junior year at XJTLU.
+- *2025.01*: Began exploring research in Computer Vision and Deep Learning.
 
 
-# :books: Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,22 +48,26 @@ Jiahao Qin<sup>1</sup>, **Kan Liu<sup>1</sup>**, Yizhuo Cai, Tianyi Ji, and Fang
 
 Yizhuo Liu, Fei Li, **Kan Liu**, and Jiayuan Ma
 
-:star: Accepted (Poster Presentation)
+Accepted (Poster Presentation)
 </div>
 </div>
 
 
-# :medal: Honors and Awards
+# Honors and Awards
+
 - *2024*: Scholarship Award, Xi'an Jiaotong-Liverpool University.
 
 
-# :school: Education
+# Education
+
 - *2023.09 - Present*, B.Eng. in Computer Science/Data Science, Xi'an Jiaotong-Liverpool University, Suzhou, China.
 
 
-# :computer: Projects
+# Projects
+
 *Coming soon...*
 
 
-# :heart: Connect with Me
+# Connect with Me
+
 Feel free to reach out via [email](mailto:Kan.Liu23@student.xjtlu.edu.cn) or check out my [GitHub](https://github.com/Outlook034) profile!

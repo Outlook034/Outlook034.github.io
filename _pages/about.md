@@ -45,7 +45,7 @@ Feel free to reach out if you are interested in my research or want to collabora
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='images/IJCNN2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MTLP-MDG: Multi-Task Learning Framework using Probabilistic Distribution Perception for Missing Data Generation](https://ieeexplore.ieee.org/document/11229220)
@@ -56,7 +56,7 @@ Jiahao Qin, **Kan Liu**, Yizhuo Cai, Tianyi Ji, and Fangyu Liu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Endo-G²T: Geometry-Guided and Temporally Aware Training for 4D Gaussian Splatting in Endoscopy](https://arxiv.org/abs/2511.21367)

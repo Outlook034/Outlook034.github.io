@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a junior undergraduate student at **Xi'an Jiaotong-Liverpool University (XJTLU)**, where I am pursuing a degree in Computer Science/Data Science. Currently, I am working as a **Research Assistant** under the supervision of **Prof. Jieming Ma**. My research interests lie in **3D/4D Reconstruction**, **3D Computer Vision**, **Depth Estimation**, **Medical Computer Vision**, and **Generative AI**.
+I am a year 3 junior undergraduate student at **Xi'an Jiaotong-Liverpool University (XJTLU)**, where I am pursuing a degree in Computer Science. Currently, I am working as a **Research Assistant** under the supervision of **Prof. Jieming Ma**. My research interests lie in **3D/4D Reconstruction**, **3D Computer Vision**, **Depth Estimation**, **Medical Computer Vision**, and **Generative AI**.
 
 Feel free to reach out if you are interested in my research or want to collaborate!
 
@@ -126,7 +126,7 @@ Yizhuo Liu, Fei Li, **Kan Liu**, and Jiayuan Ma
 
 # Education
 
-- *2023.09 - Present*, B.Eng. in Computer Science/Data Science, Xi'an Jiaotong-Liverpool University, Suzhou, China
+- *2023.09 - Present*, B.Eng. in Computer Science, Xi'an Jiaotong-Liverpool University, Suzhou, China
 
 **GPA:** 3.89/4.00 | **IELTS:** 6.5
 

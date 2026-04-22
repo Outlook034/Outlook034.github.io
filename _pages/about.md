@@ -39,9 +39,7 @@ Feel free to reach out if you are interested in my research or want to collabora
 
 # News
 
-- *2026.04*: See-Through 4D Endoscopy paper submitted to **MICCAI 2026**.
-- *2025.09*: Started my junior year at XJTLU.
-- *2025.01*: Began exploring research in Computer Vision and Deep Learning.
+- *2026.02*: Submitted our first-authored paper "See-Through 4D Endoscopy via Semantic-Guided Geometry Assimilation and Occlusion-Aware Tissue Completion for Dynamic Gaussian Splatting" to **MICCAI 2026**.
 
 
 # Publications
